@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/src/java/danhnpc/servlet/CreateAccountServlet.java</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/src/java/danhnpc/servlet/CartServlet.java</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/src/java/danhnpc/filter/FilterDispatcher.java</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/src/java/danhnpc/servlet/AddItemToCartServlet.java</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/src/java/danhnpc/servlet/ShoppingServlet.java</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/web/shopping.jsp</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/src/java/danhnpc/servlet/CheckOutServlet.java</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/web/search.jsp</file>
+            <file>file:/F:/JavaWeb/MVCSE1418_Filter/web/signUp.jsp</file>
+        </group>
+    </open-files>
+</project-private>

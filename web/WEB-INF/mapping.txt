@@ -1,0 +1,13 @@
+ =StartUpServlet
+try=login.html
+login=LoginServlet
+search=SearchServlet
+deleteAccount=DeleteAccountServlet
+update=UpdateServlet
+shopping=ShoppingServlet
+cart=CartServlet
+removeItem=RemoveItemServlet
+checkOut=CheckOutServlet
+createAccount=CreateAccountServlet
+signUp=signUp.html
+logOut=LogoutServlet

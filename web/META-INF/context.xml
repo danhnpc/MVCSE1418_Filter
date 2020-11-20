@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MVCSE1418_Filter">
+  <Resource auth="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            name="SE1418DS" password="123456" type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://localhost:1433;databaseName=ItemManagement" username="sa"/>
+</Context>
